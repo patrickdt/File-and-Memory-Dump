@@ -1,0 +1,7 @@
+	    Host Name		Architecture (x86, SPARC)	     Endianess
+
+	lore.cs.purdue.edu    sun4u sparc SUNW,Sun-Fire-V445   Machine is Little Endian
+
+
+	data.cs.purdue.edu    x86_64 x86_64 x86_64 GNU/Linux    Machine is Big Endian
+
